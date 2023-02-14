@@ -1,0 +1,15 @@
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\bin\Debug\net6.0\CalculandoAreaDoTerreno.exe
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\bin\Debug\net6.0\CalculandoAreaDoTerreno.deps.json
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\bin\Debug\net6.0\CalculandoAreaDoTerreno.runtimeconfig.json
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\bin\Debug\net6.0\CalculandoAreaDoTerreno.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\bin\Debug\net6.0\CalculandoAreaDoTerreno.pdb
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.csproj.AssemblyReference.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.AssemblyInfoInputs.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.AssemblyInfo.cs
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.csproj.CoreCompileInputs.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\refint\CalculandoAreaDoTerreno.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.pdb
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\CalculandoAreaDoTerreno.genruntimeconfig.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Desafios\CalculandoAreaDoTerreno\CalculandoAreaDoTerreno\obj\Debug\net6.0\ref\CalculandoAreaDoTerreno.dll

@@ -1,0 +1,15 @@
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.exe
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.deps.json
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.runtimeconfig.json
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.pdb
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.AssemblyReference.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfoInputs.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfo.cs
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\refint\OperacoesMatematicas.dll
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.pdb
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.genruntimeconfig.cache
+C:\Users\guiga\OneDrive\Documentos\Profile\Cursos\C#\Exercícios\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\ref\OperacoesMatematicas.dll
