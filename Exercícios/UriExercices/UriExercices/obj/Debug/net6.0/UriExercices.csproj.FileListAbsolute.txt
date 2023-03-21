@@ -1,0 +1,15 @@
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\bin\Debug\net6.0\UriExercices.exe
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\bin\Debug\net6.0\UriExercices.deps.json
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\bin\Debug\net6.0\UriExercices.runtimeconfig.json
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\bin\Debug\net6.0\UriExercices.dll
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\bin\Debug\net6.0\UriExercices.pdb
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.csproj.AssemblyReference.cache
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.AssemblyInfoInputs.cache
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.AssemblyInfo.cs
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.dll
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\refint\UriExercices.dll
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.pdb
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\UriExercices.genruntimeconfig.cache
+C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\UriExercices\UriExercices\obj\Debug\net6.0\ref\UriExercices.dll
