@@ -9,7 +9,8 @@
     }
 
     Console.WriteLine("A soma dos números digitados é: " + soma);
- */
+
+    //
 
     double idade, soma, media;
     int count;
@@ -35,3 +36,22 @@
         media = soma / count;
         Console.WriteLine("A média aritimética das idades é: " + media.ToString("F2"));
     }
+
+    //
+
+    int x = int.Parse(Console.ReadLine());
+
+    while (x != 0)
+    {
+
+        if (x % 2 != 0)
+        {
+            x += 1;
+        }
+
+        int soma = 5 * x + 20;
+        Console.WriteLine(soma);
+
+        x = int.Parse(Console.ReadLine());
+    }
+*/
