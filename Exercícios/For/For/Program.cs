@@ -1,4 +1,4 @@
-﻿int N = int.Parse(Console.ReadLine());
+﻿/* int N = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= 10; i++)
 {
@@ -8,3 +8,13 @@ for (int i = 1; i <= 10; i++)
 }
 
 Console.ReadLine();
+*/
+
+double soma = 0;
+
+for (int i = 1; i <= 100; i++)
+{
+    soma = soma + 1.0 / i;
+}
+
+Console.WriteLine(soma.ToString("F2"));

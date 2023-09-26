@@ -13,3 +13,17 @@ C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\For\For\obj\De
 C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.pdb
 C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.genruntimeconfig.cache
 C:\Users\Guilherme Olifirenko\Documents\GitHub\CSharp\Exercícios\For\For\obj\Debug\net6.0\ref\For.dll
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\bin\Debug\net6.0\For.exe
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\bin\Debug\net6.0\For.deps.json
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\bin\Debug\net6.0\For.dll
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\bin\Debug\net6.0\For.pdb
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.dll
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\refint\For.dll
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.pdb
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\Users\Guilherme\OneDrive\Documentos\Profile\Cursos\CSharp\Exercícios\For\For\obj\Debug\net6.0\ref\For.dll
