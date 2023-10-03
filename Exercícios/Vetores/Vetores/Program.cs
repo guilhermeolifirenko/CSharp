@@ -63,7 +63,7 @@ double media = soma / N;
 
 Console.WriteLine(soma.ToString("F2"));
 Console.WriteLine(media.ToString("F2"));
-*/
+
 
 int N = int.Parse(Console.ReadLine());
 
@@ -100,3 +100,18 @@ for (int i = 0; i < N; i++)
 double porcentagem = (double)count / N * 100;
 
 Console.WriteLine("Pessoas com menos de 16 anos: " + porcentagem.ToString("F1") + "%");
+*/
+
+int N = int.Parse(Console.ReadLine());
+string[] nomes = new string[N];
+
+for (int i = 0; i < N; i++)
+{
+    nomes[i] = Console.ReadLine();
+}
+
+Console.WriteLine("Os nomes digitados foram:");
+foreach (string x in nomes)
+{
+    Console.WriteLine(x);
+}
